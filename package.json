@@ -1,6 +1,6 @@
 {
   "name": "privacy-holder",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Hide some sensitive data with the character '*'",
   "main": "index.js",
   "scripts": {
